@@ -1,0 +1,6 @@
+.bg_admin{
+    background: linear-gradient(to right, rgb(201, 214, 255), rgb(226, 226, 226));
+}
+.errors_color{
+    color: red;
+}

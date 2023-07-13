@@ -1,0 +1,21 @@
+.bg_loginpage {
+  background: linear-gradient(to right, rgb(201, 214, 255), rgb(226, 226, 226));
+  }
+  
+  /* .resizebox_login{
+    margin-top: 2rem !important;
+    margin-bottom: 5rem !important;
+    margin-left: 16rem !important;
+    margin-right: 16rem !important;
+  } */
+  .remargin_logintext{
+    padding-top: 2rem !important;
+  }
+
+  .fixsizebutton{
+    width: 100% !important;
+    height: 40px !important;
+  }
+  .errors_color{
+    color: red;
+  }

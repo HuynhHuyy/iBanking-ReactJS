@@ -1,0 +1,13 @@
+ .resizebox_login{
+    margin-top: 2rem !important;
+    margin-bottom: 5rem !important;
+    margin-left: 16rem !important;
+    margin-right: 18rem !important;
+  }
+  .fixsizebutton{
+    width: 100% !important;
+    height: 80% !important;
+  }
+  .errors_color{
+    color: red;
+  }
